@@ -36,10 +36,7 @@ body .banner .logo {
   /* background: no-repeat; */
   margin-top: 200;
 }
-body .banner .content-center {
-  
-  /* border: solid red; */
-}
+
 body .banner .content-center .left,
 body .banner .content-center .center,
 body .banner .content-center .right {
